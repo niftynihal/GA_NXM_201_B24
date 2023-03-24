@@ -7,7 +7,7 @@ jobs:
             - run: npm --version
             - uses: actions/checkout@v3
             - run: npm install
-            - run: npx eslint .
+            - run: npx eslint . --fix
             - run: node index.js
 
           
