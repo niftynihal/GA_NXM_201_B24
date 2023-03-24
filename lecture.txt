@@ -25,3 +25,14 @@ or deploy merged pull requests to production.
 Github actions workflow
 
 1. build a simple workflow now
+
+   .github/workflows/build.yml
+
+YAML - YAML A'INT markdown language
+   sequence of steps
+
+
+    - Indentation
+    - key: value
+ 
+    on -> when should an event be triggered
