@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/niftynihal/GA_NXM_201_B24/issues"
   },
-  "homepage": "https://github.com/niftynihal/GA_NXM_201_B24#readme"
+  "homepage": "https://github.com/niftynihal/GA_NXM_201_B24#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
