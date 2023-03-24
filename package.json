@@ -1,0 +1,20 @@
+{
+  "name": "day_16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niftynihal/GA_NXM_201_B24.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niftynihal/GA_NXM_201_B24/issues"
+  },
+  "homepage": "https://github.com/niftynihal/GA_NXM_201_B24#readme"
+}
